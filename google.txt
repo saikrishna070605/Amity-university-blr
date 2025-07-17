@@ -12,3 +12,4 @@
  hosal avaleble
  hostal students 
  have no food
+ hostal hostal
