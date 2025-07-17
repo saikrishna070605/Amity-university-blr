@@ -7,4 +7,6 @@
  cse 
  general
  good facility
- good mantance 
+ good mantance
+ hosal avaleble
+ 
